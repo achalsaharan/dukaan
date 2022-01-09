@@ -7,7 +7,7 @@ export function Header() {
 
     return (
         <>
-            <div className="fixed w-screen top-0 left-0 z-0 border-b-2" style={{backgroundColor: "white"}}>
+            <div className="fixed bg-white w-screen top-0 left-0 z-0 border-b-2">
                 <div
                     className="mx-auto py-4 px-2 text-purple-600 flex items-center"
                     style={{ maxWidth: '1500px' }}
